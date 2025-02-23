@@ -1,7 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/JustinPhillipsPDX/OrionEos/refs/heads/master/orion_eos_logo.jpg)](https://github.com/JustinPhillipsPDX/OrionEos)
 
-# Orion Eos 🌅
-
 **Orion Eos** is the unified programming language at the heart of the [**Orion** 🌌](https://github.com/JustinPhillipsPDX/Orion) operating system. Designed to seamlessly bridge system-level operations, middleware logic, and user interface components, **Orion Eos** provides a robust, modular, and backward-compatible foundation for building a modern, adaptive OS.
 
 The inaugural implementation of **Orion Eos** is known as **Orion Genesis**, marking the first evolution of this language. As the language evolves, **Orion Eos** will serve as the core framework for all [**Orion**](https://github.com/JustinPhillipsPDX/Orion) components, enabling effortless updates and integrated AI-driven enhancements.
