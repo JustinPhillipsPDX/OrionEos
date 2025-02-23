@@ -26,7 +26,7 @@ The inaugural implementation of **Orion Eos** is known as **Orion Genesis**, mar
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/OrionEos.git
+   git clone https://github.com/JustinPhillipsPDX/OrionEos.git
    cd OrionEos
    ```
 
