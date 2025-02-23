@@ -1,4 +1,4 @@
-[![MasterHead]([https://raw.githubusercontent.com/JustinPhillipsPDX/OrionEos/refs/heads/master/orion_eos_logo_update.jpg)](https://github.com/JustinPhillipsPDX/OrionEos)
+[![MasterHead]([https://raw.githubusercontent.com/JustinPhillipsPDX/OrionEos/refs/heads/master/orion_eos_logo_update.jpg])](https://github.com/JustinPhillipsPDX/OrionEos)
 
 ---
 
