@@ -1,8 +1,8 @@
 # Orion Eos 🌅
 
-**Orion Eos** is the unified programming language at the heart of the Orion operating system. Designed to seamlessly bridge system-level operations, middleware logic, and user interface components, Orion Eos provides a robust, modular, and backward-compatible foundation for building a modern, adaptive OS.
+**Orion Eos** is the unified programming language at the heart of the **Orion** operating system. Designed to seamlessly bridge system-level operations, middleware logic, and user interface components, **Orion Eos** provides a robust, modular, and backward-compatible foundation for building a modern, adaptive OS.
 
-The inaugural implementation of Orion Eos is known as **Orion Genesis**, marking the first evolution of this language. As the language evolves, Orion Eos will serve as the core framework for all Orion components, enabling effortless updates and integrated AI-driven enhancements.
+The inaugural implementation of Orion Eos is known as **Orion Genesis**, marking the first evolution of this language. As the language evolves, **Orion Eos** will serve as the core framework for all **Orion** components, enabling effortless updates and integrated AI-driven enhancements.
 
 ## Features
 
@@ -48,11 +48,11 @@ The inaugural implementation of Orion Eos is known as **Orion Genesis**, marking
 ## Roadmap
 
 - [x] Initial repository setup and documentation
-- [ ] Core language parser and interpreter for Orion Eos
-- [ ] Integration of Orion Genesis as the first production version
+- [ ] Core language parser and interpreter for **Orion Eos**
+- [ ] Integration of **Orion Genesis** as the first production version
 - [ ] Comprehensive standard library for system and application development
 - [ ] AI-driven language enhancements and dynamic optimization modules
-- [ ] Ongoing cross-layer integration with Orion OS
+- [ ] Ongoing cross-layer integration with **Orion** OS
 
 ## Contributing
 
